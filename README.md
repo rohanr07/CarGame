@@ -9,6 +9,6 @@ This means the speed of the obstacles increases as the score increass.
 There are a number of different vechiles the user can choose from.
 
 
-For a more detailed explanation of this app please refer to the video below:
+For a more detailed explanation of this app please refer to the following video:
 https://www.youtube.com/watch?v=xaa5nmT-zp4
 
