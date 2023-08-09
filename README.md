@@ -7,3 +7,8 @@ The more vehicles passed, the higher the score the user achieves and the faster 
 This means the speed of the obstacles increases as the score increass.
 
 There are a number of different vechiles the user can choose from.
+
+
+For a more detailed explanation of this app please refer to the video below:
+https://www.youtube.com/watch?v=xaa5nmT-zp4
+
